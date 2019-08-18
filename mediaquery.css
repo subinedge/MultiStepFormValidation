@@ -1,0 +1,17 @@
+@media (max-width:800px) {
+    #multi-step {
+        width: 500px;
+        height: 160px;
+    }
+
+    #multi-step input {
+        height: 2.5rem;
+        width: 400px;
+        padding: 1rem;
+        font-size: 1rem;
+    }
+
+    i {
+        font-size: 1.2rem;
+    }
+}
